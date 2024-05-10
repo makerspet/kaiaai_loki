@@ -2,6 +2,8 @@
 
 A 200mm DIY 3D-printable pet robot compatible with [Kaia.ai](https://kaia.ai) software [platform](https://github.com/kaiaai/). 3D print, build, run and mod your own home pet robot! Please learn more at [Maker's Pet](https://makerspet.com), [REMAKE.AI](https://remake.ai) and join our [FB group](https://www.facebook.com/groups/243730868651472/).
 
+Please visit the [Support Forum](https://github.com/makerspet/support/discussions/)!
+
 Please install these Arduino libraries (using Arduino Library Manager) before building this firmware:
 - [micro_ros_kaia](https://github.com/kaiaai/micro_ros_arduino_kaiaai)
 - [LDS](https://github.com/kaiaai/LDS/)
