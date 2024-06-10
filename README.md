@@ -61,3 +61,6 @@ Supported laser distance scan sensors:
 
 ## Open-source design
 Authored in Fusion 360. Printed using a Prusa MK3.5S.
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=makerspet/makerspet_loki&type=Date)](https://star-history.com/#makerspet/makerspet_loki&Date)
