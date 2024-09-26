@@ -1,4 +1,6 @@
-# Based on humble turtlebot3_navigation2/param/burger.yaml
+# https://docs.nav2.org/configuration/index.html
+# https://github.com/ros-navigation/navigation2/blob/humble/nav2_bringup/params/nav2_params.yaml
+# https://github.com/ROBOTIS-GIT/turtlebot3/blob/humble-devel/turtlebot3_navigation2/param/burger.yaml
 amcl:
   ros__parameters:
     use_sim_time: False
