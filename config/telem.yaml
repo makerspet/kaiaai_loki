@@ -3,5 +3,4 @@ kaiaai_telemetry_node:
 
     laser_scan:
       mask_radius_meters: 0.1
-
-    lidar_model: "YDLIDAR-X4"
+      lidar_model: "YDLIDAR-X4"
